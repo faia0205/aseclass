@@ -10,8 +10,5 @@
     - Click the green button on the bottom of page as `Generate token`.
     - Make sure to copy the token like `qhp_UyAV....` and to paste it to your memo.
     - This line is added in Lesson 2.
-<<<<<<< HEAD
     - This line is added in Lesson 4 step 4.
-=======
     - This line is added in Lesson 4.
->>>>>>> 9f30149 (modify file)
